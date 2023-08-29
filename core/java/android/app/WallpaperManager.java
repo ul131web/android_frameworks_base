@@ -77,6 +77,7 @@ import android.view.Display;
 import android.view.WindowManagerGlobal;
 
 import com.android.internal.R;
+import com.android.internal.app.StorageScopesAppHooks;
 
 import libcore.io.IoUtils;
 
